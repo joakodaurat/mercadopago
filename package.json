@@ -1,0 +1,16 @@
+{
+  "name": "servidormercadopago",
+  "version": "1.0.0",
+  "description": "servidor para conectar con mercadopago",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joako daurat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0",
+    "mercadopago": "^1.0.23",
+    "morgan": "^1.9.1"
+  }
+}
